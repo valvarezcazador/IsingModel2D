@@ -9,3 +9,7 @@ venv/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Generated animations and results
+*.mp4
+*.gif
